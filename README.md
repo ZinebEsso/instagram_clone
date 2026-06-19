@@ -6,7 +6,7 @@ This is an Instagram clone built using HTML, CSS, JavaScript, and Bootstrap. The
 
 To view the Instagram clone, simply open 
 ```ruby
-https://designtowebsite.github.io/instagram_clone/login
+https://ZinebEsso.github.io/instagram_clone/login
 ```
 # Screenshots
 
